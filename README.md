@@ -4,6 +4,8 @@ A full-stack personal portfolio website built with **React** (frontend) and **No
 
 ---
 
+Live link https://noluthandov-sekhula.netlify.app/
+
 ## ✨ Features
 
 - React + React Router — single page app with smooth scroll navigation
