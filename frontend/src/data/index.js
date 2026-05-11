@@ -173,7 +173,7 @@ export const SOCIALS = [
   },
   {
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/noluthando-sekhula',
+    href: 'https://www.linkedin.com/in/noluthando-sekhula-7a2572383',
     icon: <FaLinkedin />
   },
   {
